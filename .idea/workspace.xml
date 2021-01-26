@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f383ed47-3588-44c4-a895-a35edd86f9c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-algorithm/StringBuilder/LicenseKeyFormatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-algorithm/StringBuilder/LicenseKeyFormatting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-algorithm/me/haeni/string/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-algorithm/me/haeni/string/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/MeetingRoom2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/MergeInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/MergeInterval2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Set/JewelsAndStones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringBuilder/LicenseKeyFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/DailyTemperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/DailyTemperature_stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/DescendingSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/MeetingRooms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/MoveZeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/haeni/string/TwoSum_2for.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Array/KClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Array/MergeInterval2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_Array/Point.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +43,33 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DailyTemperature">
+    <configuration name="DailyTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Array.DailyTemperature" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Array.d" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="java-algorithm" />
@@ -80,6 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DailyTemperature" />
+        <item itemvalue="Application.d" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
