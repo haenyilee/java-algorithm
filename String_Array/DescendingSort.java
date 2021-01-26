@@ -1,4 +1,4 @@
-package me.haeni.string;
+package String_Array;
 
 import java.util.Arrays;
 import java.util.Comparator;

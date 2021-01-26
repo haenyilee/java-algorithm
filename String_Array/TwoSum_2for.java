@@ -1,4 +1,4 @@
-package me.haeni.string;
+package String_Array;
 
 /*
 public class TwoSum {

@@ -1,10 +1,10 @@
-package me.haeni.string;
+package String_Array;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Point implements Comparable<Point>{
+class Point implements Comparable<Point>{
 
     private int x;
     private int y;

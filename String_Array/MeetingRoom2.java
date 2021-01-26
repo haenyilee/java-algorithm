@@ -1,4 +1,4 @@
-package ArrayList;
+package String_Array;
 /*class Mr2Interval {
     int start;
     int end;

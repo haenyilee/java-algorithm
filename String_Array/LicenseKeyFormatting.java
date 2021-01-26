@@ -1,6 +1,4 @@
-package StringBuilder;
-
-import java.util.Locale;
+package String_Array;
 
 // StringBuilder
 public class LicenseKeyFormatting {
@@ -20,8 +18,6 @@ public class LicenseKeyFormatting {
 
         // StringBuilder 에 각 char를 넣는다.
         StringBuilder sb = new StringBuilder();
-
-
         for(int i = 0; i < newStr.length(); i++) {
             sb.append(newStr.charAt(i));
         }
